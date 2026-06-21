@@ -1,19 +1,4 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Birthday App — README</title>
-  <style>
-    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; line-height:1.6; color:#0f172a; padding:32px; max-width:900px; margin:auto; }
-    h1,h2 { color:#0b4a6f; margin-top:24px; }
-    pre { background:#f3f4f6; padding:12px; border-radius:6px; overflow:auto; }
-    a { color:#0366d6; text-decoration:none; }
-    .meta { color:#475569; font-size:0.95rem; margin-bottom:8px; }
-    ul { margin:8px 0 16px 20px; }
-    footer { margin-top:28px; color:#64748b; font-size:0.9rem; }
-  </style>
-</head>
+
 <body>
   <h1>Birthday App</h1>
   <p class="meta">A small React + Vite frontend that demonstrates a birthday UI with interactive components, built for learning and demo purposes.</p>
